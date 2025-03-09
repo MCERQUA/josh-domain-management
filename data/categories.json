@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "id": "insurance",
+      "name": "Insurance Industry",
+      "description": "Domains focused on insurance products and services",
+      "color": "#3B82F6",
+      "subcategories": [
+        {
+          "id": "agency",
+          "name": "Agency Sites",
+          "description": "Primary agency websites"
+        },
+        {
+          "id": "contractor_insurance",
+          "name": "Contractor Insurance",
+          "description": "Insurance specific to contractors"
+        },
+        {
+          "id": "specialty_vehicle",
+          "name": "Specialty Vehicle Insurance",
+          "description": "Insurance for unusual or specialty vehicles"
+        },
+        {
+          "id": "property_type",
+          "name": "Property Type Insurance",
+          "description": "Insurance for specific property types"
+        },
+        {
+          "id": "spanish",
+          "name": "Spanish Language",
+          "description": "Spanish language insurance sites"
+        },
+        {
+          "id": "blockchain",
+          "name": "Blockchain Insurance",
+          "description": "Innovative blockchain-based insurance"
+        },
+        {
+          "id": "recreation",
+          "name": "Recreational Insurance",
+          "description": "Insurance for recreational activities"
+        },
+        {
+          "id": "specialty",
+          "name": "Specialty Insurance",
+          "description": "Other specialty insurance niches"
+        },
+        {
+          "id": "education",
+          "name": "Insurance Education",
+          "description": "Educational resources about insurance"
+        }
+      ]
+    },
+    {
+      "id": "construction",
+      "name": "Construction & Trades",
+      "description": "Domains related to construction and specialty trades",
+      "color": "#F59E0B",
+      "subcategories": [
+        {
+          "id": "spray_foam",
+          "name": "Spray Foam Industry",
+          "description": "Spray foam insulation and roofing"
+        },
+        {
+          "id": "roofing",
+          "name": "Roofing",
+          "description": "Roofing services and information"
+        },
+        {
+          "id": "energy",
+          "name": "Energy Services",
+          "description": "Energy audits and efficiency services"
+        },
+        {
+          "id": "insulation",
+          "name": "Insulation",
+          "description": "Insulation services and information"
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "Digital Assets",
+      "description": "Digital-focused domains and concepts",
+      "color": "#10B981",
+      "subcategories": [
+        {
+          "id": "virtual_services",
+          "name": "Virtual Services",
+          "description": "Virtual and digital service offerings"
+        },
+        {
+          "id": "metaverse",
+          "name": "Metaverse",
+          "description": "Metaverse and Web3 concepts"
+        }
+      ]
+    },
+    {
+      "id": "content",
+      "name": "Content & Media",
+      "description": "Content-focused domains",
+      "color": "#8B5CF6",
+      "subcategories": [
+        {
+          "id": "podcast",
+          "name": "Podcast",
+          "description": "Podcast and audio content"
+        },
+        {
+          "id": "blog",
+          "name": "Blog",
+          "description": "Blog and written content"
+        },
+        {
+          "id": "video",
+          "name": "Video",
+          "description": "Video content platforms"
+        }
+      ]
+    },
+    {
+      "id": "geographic",
+      "name": "Geographic Markets",
+      "description": "Location-specific domains",
+      "color": "#EC4899",
+      "subcategories": [
+        {
+          "id": "arizona",
+          "name": "Arizona",
+          "description": "Arizona-focused domains"
+        },
+        {
+          "id": "nevada",
+          "name": "Nevada",
+          "description": "Nevada-focused domains"
+        },
+        {
+          "id": "california",
+          "name": "California",
+          "description": "California-focused domains"
+        },
+        {
+          "id": "other_states",
+          "name": "Other States",
+          "description": "Domains focused on other specific states"
+        }
+      ]
+    }
+  ],
+  "statuses": [
+    {
+      "id": "active",
+      "name": "Active",
+      "description": "Domain has an active website",
+      "color": "#22C55E"
+    },
+    {
+      "id": "forwarding",
+      "name": "Forwarding",
+      "description": "Domain forwards to another site",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "planning",
+      "name": "Planning",
+      "description": "Website in planning phase",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "development",
+      "name": "In Development",
+      "description": "Website being actively developed",
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "concept",
+      "name": "Concept",
+      "description": "Early concept stage",
+      "color": "#EC4899"
+    },
+    {
+      "id": "inactive",
+      "name": "Inactive",
+      "description": "Domain not currently in use",
+      "color": "#6B7280"
+    },
+    {
+      "id": "operational",
+      "name": "Operational",
+      "description": "Site is operational but may need updates",
+      "color": "#0EA5E9"
+    }
+  ],
+  "priorities": [
+    {
+      "id": "high",
+      "name": "High",
+      "description": "High priority for development",
+      "color": "#EF4444"
+    },
+    {
+      "id": "medium",
+      "name": "Medium",
+      "description": "Medium priority for development",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "low",
+      "name": "Low",
+      "description": "Low priority for development",
+      "color": "#6B7280"
+    }
+  ],
+  "templates": [
+    {
+      "id": "agency-primary",
+      "name": "Agency Primary",
+      "description": "Main agency website template",
+      "features": ["Contact Form", "Service List", "About Page", "Team Profiles"]
+    },
+    {
+      "id": "lead-gen",
+      "name": "Lead Generation",
+      "description": "Focused on generating leads",
+      "features": ["Quote Form", "CTAs", "Testimonials", "Benefits List"]
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Insurance",
+      "description": "Template for specialty insurance niches",
+      "features": ["Specialty Info", "Quote Form", "FAQ", "Coverage Details"]
+    },
+    {
+      "id": "educational",
+      "name": "Educational Resource",
+      "description": "Content-focused educational site",
+      "features": ["Articles", "Resources", "Guides", "Certification Info"]
+    },
+    {
+      "id": "local-service",
+      "name": "Local Service",
+      "description": "Location-based service business",
+      "features": ["Map", "Service Area", "Local Content", "Contact Form"]
+    },
+    {
+      "id": "spanish",
+      "name": "Spanish Language",
+      "description": "Spanish language template",
+      "features": ["Spanish Content", "Cultural Elements", "Quote Form", "Testimonials"]
+    },
+    {
+      "id": "innovation",
+      "name": "Innovation Concept",
+      "description": "Forward-looking concept sites",
+      "features": ["Modern Design", "Innovation Showcase", "Technology Focus"]
+    },
+    {
+      "id": "content",
+      "name": "Content Site",
+      "description": "Blog or content-focused site",
+      "features": ["Articles", "Categories", "Author Profiles", "Subscription"]
+    },
+    {
+      "id": "property",
+      "name": "Property Insurance",
+      "description": "Property-specific insurance site",
+      "features": ["Property Types", "Coverage Details", "Quote Form", "Claims Info"]
+    },
+    {
+      "id": "service",
+      "name": "Service Business",
+      "description": "Service-focused business site",
+      "features": ["Service List", "Pricing", "Process Explanation", "Contact Form"]
+    }
+  ]
+}
