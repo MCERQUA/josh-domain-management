@@ -11,11 +11,11 @@ This document tracks the status of all insurance-related domains in Josh's portf
 ## High Priority Insurance Domains
 
 ### Active/Forwarding Insurance Domains
-- 🔄 **thecontractorschoiceagency.com** - Main agency website
-- ⏳ **barndominiuminsuance.com** - Barndominium insurance specialty
-- ⏳ **coatingsinsurance.com** - Insurance for coatings contractors
-- ⏳ **virtualinsuranceagent.io** - Virtual agent concept
-- ⏳ **wakeboatinsurance.com** - Insurance for wake boats
+- ✅ **thecontractorschoiceagency.com** - Main agency website (Found to be parked - possibly moved to contractorschoiceagency.com)
+- ⚠️ **barndominiuminsuance.com** - Barndominium insurance specialty (Domain not resolving - possible typo)
+- ✅ **coatingsinsurance.com** - Insurance for coatings contractors (Active site offering contractor insurance)
+- ✅ **virtualinsuranceagent.io** - Virtual agent concept (Redirects to contractorschoiceagency.com)
+- 🔄 **wakeboatinsurance.com** - Insurance for wake boats
 - ⏳ **roofinginsurance.com** - Insurance for roofing contractors
 - ⏳ **solarcontractorsinsurance.com** - Insurance for solar installation contractors
 - ⏳ **sedonainsurance.com** - Sedona, Arizona focused insurance
@@ -96,7 +96,7 @@ This document tracks the status of all insurance-related domains in Josh's portf
 - ⏳ **tunercarinsurance.com** - Insurance for tuner cars
 - ⏳ **vanlifeinsurance.com** - Insurance for van life vehicles
 - ⏳ **wakeboatinsurance.co** - Insurance for wake boats (co TLD)
-- ⏳ **wakeboatinsurance.com** - Insurance for wake boats
+- 🔄 **wakeboatinsurance.com** - Insurance for wake boats
 - ⏳ **rzrinsurance.com** - Insurance for Polaris RZR vehicles
 - ⏳ **ssvinsurance.com** - Insurance for SSVs (side-by-sides)
 - ⏳ **teryxinsurance.com** - Insurance for Teryx vehicles
@@ -128,7 +128,7 @@ This document tracks the status of all insurance-related domains in Josh's portf
 ### Property Type Insurance Domains
 - ⏳ **barndoinsurance.com** - Insurance specifically for barndo structures
 - ⏳ **barndominiumbonds.com** - Bonds for barndominium construction
-- ⏳ **barndominiuminsuance.com** - Barndominium insurance specialty
+- ⚠️ **barndominiuminsuance.com** - Barndominium insurance specialty (Domain not resolving)
 - ⏳ **tracthomeinsurance.com** - Insurance for tract homes
 
 ### Spanish Language Insurance Domains
@@ -149,7 +149,7 @@ This document tracks the status of all insurance-related domains in Josh's portf
 - ⏳ **c10insurance.com** - Insurance for C10 electrical contractors
 - ⏳ **canadiansprayfoaminsurance.com** - Insurance for Canadian spray foam contractors
 - ⏳ **coatinginsurance.com** - Insurance for coatings businesses
-- ⏳ **coatingsinsurance.com** - Insurance for coatings contractors and businesses
+- ✅ **coatingsinsurance.com** - Insurance for coatings contractors and businesses
 - ⏳ **coloradocontractorinsurance.co** - Contractor insurance in Colorado
 - ⏳ **mobiledetailinsurance.com** - Insurance for mobile detailing businesses
 - ⏳ **motocrosstrackinsurance.com** - Insurance for motocross tracks
@@ -176,15 +176,23 @@ This document tracks the status of all insurance-related domains in Josh's portf
 - ⏳ **ufcinsurance.com** - Insurance for UFC related businesses
 - ⏳ **unmannedaircraftsystemsinsurance.com** - Drone insurance specialty
 - ⏳ **vacationliabilityinsurance.com** - Liability insurance for vacation rentals
-- ⏳ **virtualinsuranceagent.io** - Virtual agent concept
+- ✅ **virtualinsuranceagent.io** - Virtual agent concept (Redirects to contractorschoiceagency.com)
 - ⏳ **virtualinsurancebroker.io** - Virtual broker concept
 - ⏳ **workhorseinsurance.com** - Insurance for work vehicles
 - ⏳ **wrapinstallerinsurance.com** - Insurance for vehicle wrap installers
 
 ## Progress Tracking
 - Total Insurance Domains: ~120 (listed above)
-- Completed: 0
+- Completed: 3
 - In Progress: 1
-- Remaining: ~119
+- Issues Found: 1
+- Remaining: ~115
+
+## Key Findings So Far
+1. We've discovered that contractorschoiceagency.com appears to be the primary business domain, not thecontractorschoiceagency.com as listed in the CSV.
+2. There's a network of insurance domains that redirect to either contractorschoiceagency.com or to specialized microsites.
+3. The business owner is Joshua Cotner, based in Phoenix, AZ, operating since 2014.
+4. The coatingsinsurance.com site appears to be part of a network that includes sprayfoaminsurance.com, with significant cross-linking.
+5. The domain barndominiuminsuance.com has a potential typo in the name and is not resolving.
 
 *Note: This is not a complete list of all 245 insurance domains mentioned in the analysis document. We've included the most significant ones based on available documentation. The list will be expanded as more domains are identified.*
