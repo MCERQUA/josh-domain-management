@@ -1,6 +1,6 @@
 # Priority Domains for Development
 
-This document lists the main domains in Josh's portfolio that need to be set up and made live. Created March 30, 2025.
+This document lists the main domains in Josh's portfolio that need to be set up and made live. Updated March 30, 2025.
 
 ## Currently Live Main Domains
 These domains are already live and should be maintained:
@@ -19,70 +19,106 @@ These domains are already live and should be maintained:
 12. ✅ **BLUECOLLARBIZSCHOOL.COM** - Educational resource
 
 ## Main Domains to Develop (Ordered by Priority)
-These domains are identified as important "main" domains that should be developed with their own websites:
+These domains are identified as important domains that should be developed with their own websites:
 
 ### High Priority (Develop First)
-1. **GHOSTWORKERSCOMPENSATIONINSURANCE.COM** - Workers compensation 
-   - Already has some forwarding domains
-   - Large market potential
-
-2. **RESIDENTIALREMODELINGINSURANCE.COM** - Remodeling contractor insurance
-   - Already has a forwarding domain
-   - Strong market with high search volume
-
-3. **INDEPENDENTTRUCKERINSURANCE.COM** - Trucking insurance
-   - Already has a forwarding domain
-   - Good alignment with existing hot shot truck insurance
-
-### Medium Priority (Develop Second)
-4. **TOOLANDEQUIPMENTINSURANCE.COM** - Equipment insurance
-   - Complements contractor insurance offerings
-   - Good SEO potential for equipment-related searches
-
-5. **CONCRETE-INSURANCE.COM** - Concrete contractor insurance
+1. **CONCRETE-INSURANCE.COM** - Concrete contractor insurance
    - Major construction trade 
    - Consistent search volume
 
-6. **WELDING-INSURANCE.COM** - Welding contractor insurance
+2. **WELDING-INSURANCE.COM** - Welding contractor insurance
    - Already has a forwarding domain
    - Specialized trade with specific insurance needs
 
-7. **HOODVENTCLEANINGINSURANCE.COM** - Hood vent/restaurant specialty
-   - Already has forwarding domains
-   - Niche market with little competition
-
-8. **DRYWALL-INSURANCE.COM** - Drywall contractor insurance
+3. **DRYWALL-INSURANCE.COM** - Drywall contractor insurance
    - Major construction trade
    - Complements existing contractor offerings
 
-9. **ELECTRICIAN-INSURANCE.COM** - Electrician contractor insurance
+4. **ELECTRICIAN-INSURANCE.COM** - Electrician contractor insurance
    - High-demand trade with specific insurance requirements
    - Consistent search volume
 
-10. **HVAC-INSURANCE.COM** - HVAC contractor insurance
-    - Year-round demand 
-    - High-value contractors
+5. **HVAC-INSURANCE.COM** - HVAC contractor insurance
+   - Year-round demand 
+   - High-value contractors
 
-11. **PAINTING-INSURANCE.COM** - Painting contractor insurance
-    - Common trade service
-    - Good value for customer acquisition
+6. **PAINTING-INSURANCE.COM** - Painting contractor insurance
+   - Common trade service
+   - Good value for customer acquisition
 
-### Lower Priority (Develop Last)
-12. **UNMANNEDAIRCRAFTSYSTEMSINSURANCE.COM** - Drone insurance
-    - Growing market with specialized insurance needs
-    - Already has a forwarding domain
+7. **LANDSCAPERINSURANCEAGENCY.COM** - Landscaping contractor insurance
+   - Seasonal high-demand service
+   - Specific insurance requirements for equipment and liability
 
-13. **CONTRACTORSPOLLUTIONLIABILITYINSURANCE.COM** - Environmental specialty
-    - Specialized niche with high policy values
-    - Lower search volume but valuable customers
+8. **WATERPROOFINGINSURANCE.COM** - Waterproofing contractor insurance
+   - Specialized construction service
+   - Addresses water damage liability concerns
 
-14. **CONTRACTORSPROFESSIONALLIABILITY.COM** - Professional liability
-    - High-value policies
-    - Specialized insurance needs
+9. **CABINCRUSIERINSURANCE.COM** - Cabin cruiser boat insurance
+   - Recreational vehicle specialty
+   - High-value policies potential
 
-15. **PUROSEGURO.COM** - Spanish language insurance
-    - Market expansion opportunity
-    - Underserved demographic
+10. **UFCINSURANCE.COM** - UFC related business insurance
+    - Targeted niche for combat sports businesses
+    - Specialized liability coverage requirements
+
+11. **VANLIFEINSURANCE.COM** - Van life vehicle insurance
+    - Growing lifestyle trend
+    - Specialized coverage for converted vehicles
+
+12. **FIGHTCLUBINSURANCE.COM** - Fight club/combat sports insurance
+    - Specialized high-risk coverage
+    - Targeted audience with specific insurance needs
+
+### Medium Priority (Develop Second)
+1. **UNMANNEDAIRCRAFTSYSTEMSINSURANCE.COM** - Drone insurance
+   - Growing market with specialized insurance needs
+   - Already has a forwarding domain
+
+2. **CONTRACTORSPOLLUTIONLIABILITYINSURANCE.COM** - Environmental specialty
+   - Specialized niche with high policy values
+   - Lower search volume but valuable customers
+
+3. **CONTRACTORSPROFESSIONALLIABILITY.COM** - Professional liability
+   - High-value policies
+   - Specialized insurance needs
+
+4. **PUROSEGURO.COM** - Spanish language insurance
+   - Market expansion opportunity
+   - Underserved demographic
+
+5. **BARANDNIGHTCLUBINSURANCE.COM** - Bar/nightclub insurance
+   - Hospitality industry focus
+   - Specialized liability coverage requirements
+
+6. **FROYOINSURANCE.COM** - Frozen yogurt shop insurance
+   - Specialized food service insurance
+   - Targeted niche market
+
+7. **EANDSINSURANCE.COM** - Errors & omissions insurance
+   - Professional service coverage
+   - High-value policies
+
+8. **TOOLANDEQUIPMENTINSURANCE.COM** - Equipment insurance
+   - Complements contractor insurance offerings
+   - Good SEO potential for equipment-related searches
+
+9. **GLAZINGINSURANCE.COM** - Glass contractor insurance
+   - Specialized construction trade
+   - Specific liability considerations
+
+10. **GHOSTWORKERSCOMPENSATIONINSURANCE.COM** - Workers compensation
+    - Specialized workers comp coverage
+    - Addresses compliance issues
+
+### Low Priority (Develop Last)
+1. **HOODVENTCLEANINGINSURANCE.COM** - Restaurant hood vent cleaning insurance
+   - Niche market with little competition
+   - Specialized service with specific insurance requirements
+
+### Domains to Redirect
+1. **RESIDENTIALREMODELINGINSURANCE.COM** → Redirect to contractorschoiceagency.com
+2. **MOBILEDETAILINSURANCE.COM** → Redirect to oversprayinsurance.com
 
 ## Resource Requirements
 
